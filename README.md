@@ -7,7 +7,7 @@ Since it is hardware demanding, it could be useful for students to run it on col
 The notebook in this repository shows how to run and visualize CARLA on colab.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MichaelBosello/carla-colab/blob/master/carla-simulator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gooogr/carla-colab/blob/master/carla_simulator.ipynb)
 
 
 <img src="https://raw.githubusercontent.com/MichaelBosello/carla-colab/master/img/screen.png" width="750">
